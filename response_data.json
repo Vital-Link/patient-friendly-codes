@@ -1,0 +1,52 @@
+[
+    {
+        "code": "100005",
+        "results": [
+            {
+                "name": "Herbaspirillum sp. BA161",
+                "uri": "https://uts-ws.nlm.nih.gov/rest/content/2022AB/CUI/C1045982"
+            },
+            {
+                "name": "x-ray of hip: subchondral cyst of acetabulum",
+                "uri": "https://uts-ws.nlm.nih.gov/rest/content/2022AB/CUI/C2046253"
+            },
+            {
+                "name": "Audible swallow",
+                "uri": "https://uts-ws.nlm.nih.gov/rest/content/2022AB/CUI/C0516805"
+            },
+            {
+                "name": "hydrocortisone 25 MG/ML Rectal Cream [Procto-Kit]",
+                "uri": "https://uts-ws.nlm.nih.gov/rest/content/2022AB/CUI/C1878333"
+            }
+        ]
+    },
+    {
+        "code": "101009",
+        "results": [
+            {
+                "name": "Oceanobacillus sp. JSM 101009",
+                "uri": "https://uts-ws.nlm.nih.gov/rest/content/2022AB/CUI/C4156120"
+            },
+            {
+                "name": "Nocardioides sp. CCBAU 101009",
+                "uri": "https://uts-ws.nlm.nih.gov/rest/content/2022AB/CUI/C3381654"
+            },
+            {
+                "name": "Quilonia ethiopica",
+                "uri": "https://uts-ws.nlm.nih.gov/rest/content/2022AB/CUI/C0321092"
+            },
+            {
+                "name": "SPASTIC PARAPLEGIA 29, AUTOSOMAL DOMINANT",
+                "uri": "https://uts-ws.nlm.nih.gov/rest/content/2022AB/CUI/C1857855"
+            },
+            {
+                "name": "Meal duration with respect to amount consumed",
+                "uri": "https://uts-ws.nlm.nih.gov/rest/content/2022AB/CUI/C1821988"
+            },
+            {
+                "name": "demeclocycline hydrochloride 150 MG Oral Tablet",
+                "uri": "https://uts-ws.nlm.nih.gov/rest/content/2022AB/CUI/C0976093"
+            }
+        ]
+    }
+]
